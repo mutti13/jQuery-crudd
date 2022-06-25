@@ -26,7 +26,7 @@ h1 {
   color: rgb(183, 228, 177);
 }
 .btn-success{
-  background-color: rgb(46, 0, 0);
+  background-color: #8d2d2d;
   border-color: aliceblue;
 }
 .btn-success:hover{
